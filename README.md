@@ -3,8 +3,8 @@
 #Step 2 - Open ThrottleStop and Follow the steps in Pictures
 
 ![picture](throttlestop-step1.PNG)
-![picture](throttlestop-step1.PNG)
-![picture](throttlestop-step1.PNG)
+![picture](throttlestop-step2.PNG)
+![picture](throttlestop-step3.PNG)
 
 
 #Step 3 - Open MSI Afterburner and Press Ctrl + F and Set the curve as ![picture](msi_afterburnerctrctrl+f.PNG)
